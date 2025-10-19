@@ -2,8 +2,8 @@
 VERSION = 6
 PATCHLEVEL = 6
 SUBLEVEL = 112
-EXTRAVERSION = -gnu
-NAME = Pinguïn Aangedreven
+EXTRAVERSION = -pure
+NAME =
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
